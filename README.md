@@ -22,38 +22,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Linktree](https://linktr.ee/)**  
-  The most widely used link-in-bio platform, offering customizable link pages, analytics, monetization tools, and integrations for creators and brands.
-
-- **[Beacons](https://beacons.ai/)**  
-  All-in-one creator platform combining link-in-bio pages with email marketing, digital product sales, media kits, tipping, and monetization features.
-
-- **[Campsite](https://campsite.bio/)**  
-  Clean, design-focused link-in-bio tool popular for its flexible layouts, carousels, and professional appearance.
-
-- **[Bio.site](https://bio.site/)**  
-  Simple and modern link-in-bio builder emphasizing ease of use and clean design for personal and creator pages.
-
-- **[Koji](https://withkoji.com/)**  
-  Interactive link-in-bio and mini-app platform that supports engaging experiences beyond simple links (games, quizzes, stores, etc.).
-
-- **[Taplink](https://taplink.at/)**  
-  Feature-rich link-in-bio and mini-website builder with strong support for forms, payments, messengers (WhatsApp/Telegram), and lead generation.
-
-- **[Milkshake](https://milkshake.app/)**  
-  Mobile-first link-in-bio app designed for quick creation and management of beautiful pages directly from a phone.
-
-- **[Lnk.Bio](https://lnk.bio/)**  
-  Lightweight and affordable link-in-bio service known for generous free plans, custom domains, and embeds.
-
-- **[Shorby](https://shorby.com/)**  
-  Dedicated link-in-bio alternative focused on clean design, analytics, and straightforward link management.
-
-- **[Later Link in Bio / Linkin.bio](https://later.com/)**  
-  Link-in-bio solution from the Later social media platform, tightly integrated with Instagram and content scheduling workflows.
-
-- **[Bio.fm](https://bio.fm/)**  
-  Creator-oriented link-in-bio and landing page tool for sharing links, content, and offers in one place.
+| Platform | Description | Pricing & Free Tier Limits |
+|----------|-------------|----------------------------|
+| **[Linktree](https://linktr.ee/)** | The most widely used link-in-bio platform, offering customizable link pages, analytics, monetization tools, and integrations for creators and brands. | **Free**: Unlimited links, basic analytics, standard themes.<br>**Paid**: Starter ($5/mo), Pro ($9/mo), Premium ($24/mo). |
+| **[Beacons](https://beacons.ai/)** | All-in-one creator platform combining link-in-bio pages with email marketing, digital product sales, media kits, tipping, and monetization features. | **Free**: Link-in-bio, basic store, up to 1,000 email subs.<br>**Paid**: Creator Pro ($30/mo). |
+| **[Campsite](https://campsite.bio/)** | Clean, design-focused link-in-bio tool popular for its flexible layouts, carousels, and professional appearance. | **Free**: Unlimited links, basic analytics.<br>**Paid**: Pro ($7/mo), Pro+ ($24/mo). |
+| **[Bio.site](https://bio.site/)** | Simple and modern link-in-bio builder emphasizing ease of use and clean design for personal and creator pages. | **Free**: Unlimited links, basic templates.<br>**Paid**: Pro (from ~$12/mo). |
+| **[Koji](https://withkoji.com/)** | Interactive link-in-bio and mini-app platform that supports engaging experiences beyond simple links (games, quizzes, stores, etc.). | **Free**: 100% Free.<br>**Fees**: Monetizes via transaction fees. |
+| **[Taplink](https://taplink.at/)** | Feature-rich link-in-bio and mini-website builder with strong support for forms, payments, messengers (WhatsApp/Telegram), and lead generation. | **Free**: Basic blocks, unlimited links.<br>**Paid**: Pro ($3/mo), Business ($6/mo). |
+| **[Milkshake](https://milkshake.app/)** | Mobile-first link-in-bio app designed for quick creation and management of beautiful pages directly from a phone. | **Free**: Full features with watermark.<br>**Paid**: Pro ($2.99/mo) removes watermark. |
+| **[Lnk.Bio](https://lnk.bio/)** | Lightweight and affordable link-in-bio service known for generous free plans, custom domains, and embeds. | **Free**: Unlimited links, random URL.<br>**Paid**: Mini ($0.99/mo or $10 lifetime), Unique ($25 lifetime). |
+| **[Shorby](https://shorby.com/)** | Dedicated link-in-bio alternative focused on clean design, analytics, and straightforward link management. | **Free**: No free tier (5-day trial).<br>**Paid**: Rocket ($15/mo), Pro ($29/mo), Agency ($99/mo). |
+| **[Later Link in Bio / Linkin.bio](https://later.com/)** | Link-in-bio solution from the Later social media platform, tightly integrated with Instagram and content scheduling workflows. | **Free**: Basic link-in-bio features.<br>**Paid**: Starter ($25/mo), Growth ($40/mo), Advanced ($80/mo). |
+| **[Bio.fm](https://bio.fm/)** | Creator-oriented link-in-bio and landing page tool for sharing links, content, and offers in one place. | **Free**: 1 block, basic features.<br>**Paid**: Pro ($5/mo). |
 
 ## Open-Source GitHub Projects
 
