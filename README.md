@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Link-In-Bio Banner" width="100%">
+</p>
+
 # Awesome-Link-In-Bio-Platform
 
 ## Top Link-in-Bio Platform Tools Ecosystem
