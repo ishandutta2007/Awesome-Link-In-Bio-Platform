@@ -59,6 +59,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[HugoBlox Link-in-Bio Theme](https://github.com/HugoBlox/hugo-theme-link-in-bio)** [![GitHub stars](https://img.shields.io/github/stars/HugoBlox/hugo-theme-link-in-bio?style=social&color=white)](https://github.com/HugoBlox/hugo-theme-link-in-bio/stargazers)  
   Fast, Markdown-owned, static link-in-bio theme with unlimited links, custom domains, and AI-assisted page generation — zero monthly fees.
 
+- **[vp](https://github.com/im6/vp)** [![GitHub stars](https://img.shields.io/github/stars/im6/vp?style=social&color=white)](https://github.com/im6/vp/stargazers)  
+  A modern, highly customizable open-source link-in-bio built with React.
+
 - **[urlinks](https://github.com/0x4bs3nt/urlinks)** [![GitHub stars](https://img.shields.io/github/stars/0x4bs3nt/urlinks?style=social&color=white)](https://github.com/0x4bs3nt/urlinks/stargazers)  
   Free and fully open-source link-in-bio tool built with Django and modern front-end, focused on keeping basic link sharing free.
 
