@@ -1,6 +1,6 @@
 # Awesome-Link-In-Bio-Platform
 
-# Top Link-in-Bio Platform Tools Ecosystem
+## Top Link-in-Bio Platform Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Link-in-Bio Pages, Creator Landing Pages, Social Bio Links & Single-Link Hubs*  
