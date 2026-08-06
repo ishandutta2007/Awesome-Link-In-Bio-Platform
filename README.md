@@ -2,9 +2,9 @@
   <img src="assets/banner.svg" alt="Awesome Link-In-Bio Banner" width="100%">
 </p>
 
-# Awesome-Link-In-Bio-Platform
+# 🌟 Awesome-Link-In-Bio-Platform
 
-## Top Link-in-Bio Platform Tools Ecosystem
+## 🚀 Top Link-in-Bio Platform Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Link-in-Bio Pages, Creator Landing Pages, Social Bio Links & Single-Link Hubs*  
@@ -18,13 +18,13 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📋 Table of Contents
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 | Platform | Description | Pricing & Free Tier Limits | Company Size (Valuation/Funding) |
 |----------|-------------|----------------------------|----------------------------------|
@@ -40,7 +40,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Shorby](https://shorby.com/)** | Dedicated link-in-bio alternative focused on clean design, analytics, and straightforward link management. | **Free**: No free tier (5-day trial).<br>**Paid**: Rocket ($15/mo), Pro ($29/mo), Agency ($99/mo). | Bootstrapped / Small |
 | **[Bio.fm](https://bio.fm/)** | Creator-oriented link-in-bio and landing page tool for sharing links, content, and offers in one place. | **Free**: 1 block, basic features.<br>**Paid**: Pro ($5/mo). | Bootstrapped / Small |
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 - **[BioDrop (formerly LinkFree)](https://github.com/EddieHubCommunity/BioDrop)** [![GitHub stars](https://img.shields.io/github/stars/EddieHubCommunity/BioDrop?style=social&color=white)](https://github.com/EddieHubCommunity/BioDrop/stargazers)  
   Open-source community-driven link-in-bio and profile platform that aggregates links, socials, and contributions with a focus on developers and open-source contributors.
@@ -72,7 +72,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[LinkHub / various static themes](https://github.com/nilbasora/LinkHub)** [![GitHub stars](https://img.shields.io/github/stars/nilbasora/LinkHub?style=social&color=white)](https://github.com/nilbasora/LinkHub/stargazers)  
   Static, GitHub Pages–friendly open-source Linktree alternatives configurable via simple YAML or Markdown files.
 
-### Additional Strong Open-Source Options
+### 🧩 Additional Strong Open-Source Options
 
 - **Static site templates** (Astro, Jekyll, Hugo, Next.js, plain HTML) specifically built as Linktree clones.
 - **Self-hosted multi-user platforms** extending LinkStack or similar stacks.
@@ -82,7 +82,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: Start with **LittleLink** or a static template for the simplest self-hosted page, move to **LinkStack** for a full multi-user platform, or combine **Next.js/Astro + a headless CMS or JSON/YAML config** for complete ownership and custom features (analytics, theming, monetization).
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -91,7 +91,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Link-in-bio pages often collect analytics and may process personal data; ensure compliance with privacy regulations (GDPR, CCPA, etc.) when self-hosting or using third-party services.
