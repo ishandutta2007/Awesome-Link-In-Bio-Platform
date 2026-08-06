@@ -38,32 +38,32 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-- **[LinkStack](https://github.com/LinkStackOrg/LinkStack)**  
-  Mature, self-hosted, highly customizable open-source link-in-bio platform (PHP/Laravel) with admin panel, themes, analytics, and multi-user support — the most production-ready FOSS alternative.
-
-- **[LittleLink](https://github.com/sethcottle/littlelink)** (+ [LittleLink-Server](https://github.com/techno-tim/littlelink-server))  
-  Minimalist, static HTML/CSS template (and Docker-friendly server version) that lets you host a clean Linktree-style page on GitHub Pages, Netlify, or any web server with zero backend required.
-
-- **[BioDrop (formerly LinkFree)](https://github.com/EddieHubCommunity/BioDrop)**  
+- **[BioDrop (formerly LinkFree)](https://github.com/EddieHubCommunity/BioDrop)** [![GitHub stars](https://img.shields.io/github/stars/EddieHubCommunity/BioDrop?style=social&color=white)](https://github.com/EddieHubCommunity/BioDrop/stargazers)  
   Open-source community-driven link-in-bio and profile platform that aggregates links, socials, and contributions with a focus on developers and open-source contributors.
 
-- **[OpenBio](https://github.com/vanxh/openbio)**  
-  Beautiful open-source link-in-bio page builder featuring a customizable bento-grid layout, multiple card types, and modern Next.js stack.
+- **[LinkStack](https://github.com/LinkStackOrg/LinkStack)** [![GitHub stars](https://img.shields.io/github/stars/LinkStackOrg/LinkStack?style=social&color=white)](https://github.com/LinkStackOrg/LinkStack/stargazers)  
+  Mature, self-hosted, highly customizable open-source link-in-bio platform (PHP/Laravel) with admin panel, themes, analytics, and multi-user support — the most production-ready FOSS alternative.
 
-- **[Librelinks](https://github.com/urdadx/librelinks)**  
-  Open-source link-in-bio platform with themes, analytics (views, clicks, devices, countries), and easy customization.
+- **[LittleLink](https://github.com/sethcottle/littlelink)** [![GitHub stars](https://img.shields.io/github/stars/sethcottle/littlelink?style=social&color=white)](https://github.com/sethcottle/littlelink/stargazers) (+ [LittleLink-Server](https://github.com/techno-tim/littlelink-server) [![GitHub stars](https://img.shields.io/github/stars/techno-tim/littlelink-server?style=social&color=white)](https://github.com/techno-tim/littlelink-server/stargazers))  
+  Minimalist, static HTML/CSS template (and Docker-friendly server version) that lets you host a clean Linktree-style page on GitHub Pages, Netlify, or any web server with zero backend required.
 
-- **[OneLink](https://github.com/fayazara/onelink)**  
+- **[OneLink](https://github.com/fayazara/onelink)** [![GitHub stars](https://img.shields.io/github/stars/fayazara/onelink?style=social&color=white)](https://github.com/fayazara/onelink/stargazers)  
   Clever open-source approach where the entire link-in-bio configuration lives in the URL itself — fully portable, static, and backend-free.
 
-- **[HugoBlox Link-in-Bio Theme](https://github.com/HugoBlox/hugo-theme-link-in-bio)**  
+- **[OpenBio](https://github.com/vanxh/openbio)** [![GitHub stars](https://img.shields.io/github/stars/vanxh/openbio?style=social&color=white)](https://github.com/vanxh/openbio/stargazers)  
+  Beautiful open-source link-in-bio page builder featuring a customizable bento-grid layout, multiple card types, and modern Next.js stack.
+
+- **[Librelinks](https://github.com/urdadx/librelinks)** [![GitHub stars](https://img.shields.io/github/stars/urdadx/librelinks?style=social&color=white)](https://github.com/urdadx/librelinks/stargazers)  
+  Open-source link-in-bio platform with themes, analytics (views, clicks, devices, countries), and easy customization.
+
+- **[HugoBlox Link-in-Bio Theme](https://github.com/HugoBlox/hugo-theme-link-in-bio)** [![GitHub stars](https://img.shields.io/github/stars/HugoBlox/hugo-theme-link-in-bio?style=social&color=white)](https://github.com/HugoBlox/hugo-theme-link-in-bio/stargazers)  
   Fast, Markdown-owned, static link-in-bio theme with unlimited links, custom domains, and AI-assisted page generation — zero monthly fees.
 
-- **[LinkHub / various static themes](https://github.com/nilbasora/LinkHub)**  
-  Static, GitHub Pages–friendly open-source Linktree alternatives configurable via simple YAML or Markdown files.
-
-- **[urlinks](https://github.com/0x4bs3nt/urlinks)**  
+- **[urlinks](https://github.com/0x4bs3nt/urlinks)** [![GitHub stars](https://img.shields.io/github/stars/0x4bs3nt/urlinks?style=social&color=white)](https://github.com/0x4bs3nt/urlinks/stargazers)  
   Free and fully open-source link-in-bio tool built with Django and modern front-end, focused on keeping basic link sharing free.
+
+- **[LinkHub / various static themes](https://github.com/nilbasora/LinkHub)** [![GitHub stars](https://img.shields.io/github/stars/nilbasora/LinkHub?style=social&color=white)](https://github.com/nilbasora/LinkHub/stargazers)  
+  Static, GitHub Pages–friendly open-source Linktree alternatives configurable via simple YAML or Markdown files.
 
 ### Additional Strong Open-Source Options
 
