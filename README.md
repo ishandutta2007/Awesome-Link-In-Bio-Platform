@@ -77,6 +77,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[urlinks](https://github.com/0x4bs3nt/urlinks)** [![GitHub stars](https://img.shields.io/github/stars/0x4bs3nt/urlinks?style=social&color=white)](https://github.com/0x4bs3nt/urlinks/stargazers)  
   Free and fully open-source link-in-bio tool built with Django and modern front-end, focused on keeping basic link sharing free.
 
+- **[Open Bio Page](https://github.com/open-bio-page/open-bio-page)** [![GitHub stars](https://img.shields.io/github/stars/open-bio-page/open-bio-page?style=social&color=white)](https://github.com/open-bio-page/open-bio-page/stargazers)  
+  White-label, self-hosted link-in-bio for a family or a company: each profile is a JSON file prerendered to its own static page on GitHub Pages, with a scoped admin API on Cloudflare Workers by default and no paid tier.
+
 - **[LinkHub / various static themes](https://github.com/nilbasora/LinkHub)** [![GitHub stars](https://img.shields.io/github/stars/nilbasora/LinkHub?style=social&color=white)](https://github.com/nilbasora/LinkHub/stargazers)  
   Static, GitHub Pages–friendly open-source Linktree alternatives configurable via simple YAML or Markdown files.
 
